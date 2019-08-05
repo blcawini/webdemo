@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="EUC-KR">
-<title>winis Story Box</title>
+<title>winis Story Box test</title>
 </head>
 <body>
 <?php
